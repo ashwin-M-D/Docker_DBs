@@ -27,7 +27,7 @@ docker-compose down
 
 For a more details on how to use docker and docker-compose, look at it's documentation referenced below.
 
-## Default Settings
+## Default settings for Docker containers and how to use them
 ### MySQL
 Port: 3306
 
@@ -59,15 +59,18 @@ The browser GUI can be accessed at localhost:7474
 
 The database can be accessed through bolt i.e for Neo4j Desktop through port 7687
 
-## PDBM_Playground
+### PDBM_Playground
 This is the playground provided by the book Principles of Database Management. Running this docker container starts a web service accessible through your web browser at localhost:80
 
 It has many different databases that you can test on. However, the databases cannot be accessed through workbench or any other means and does not provide you root access. This prevents you from generating views and procedures in MySQL. It also prevents you from seeing multiple console output which you can when you use Robo3T for MongoDB.
+
+## Clearing everything and starting over
+The main advantage of using Docker is that it is very easy to scrap everything and start over. To do so, just run the docker-cleanup.sh script. Unfortunately, this script does not work on Windows.
 
 ## References
 Docker: https://docs.docker.com/<br>
 MySQL Workbench: https://www.mysql.com/products/workbench/<br>
 Robo3T Desktop: https://robomongo.org/download/<br>
-neo4j Desktop: https://neo4j.com/download-v2/<br>
+Neo4j Desktop: https://neo4j.com/download-v2/<br>
 Principles of Database Management Book: https://www.pdbmbook.com/<br>
 PDBM Playground Code Source: https://github.com/Macuyiko/pdbmbook-docker/
