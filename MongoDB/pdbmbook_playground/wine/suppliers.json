@@ -1,0 +1,56 @@
+{
+	"_id" : 21,
+	"name" : "Deliwines",
+	"address" : "240, Avenue of the Americas",
+	"city" : "New York",
+	"status" : 20
+}
+{
+	"_id" : 32,
+	"name" : "Best Wines",
+	"address" : "660, Market Street",
+	"city" : "San Francisco",
+	"status" : 90
+}
+{
+	"_id" : 37,
+	"name" : "Ad Fundum",
+	"address" : "82, Wacker Drive ",
+	"city" : "Chicago",
+	"status" : 95
+}
+{
+	"_id" : 52,
+	"name" : "Spirits & co.",
+	"address" : "928, Strip",
+	"city" : "Las Vegas",
+	"status" : null
+}
+{
+	"_id" : 68,
+	"name" : "The Wine Depot",
+	"address" : "132, Montgomery Street",
+	"city" : "San Francisco",
+	"status" : 10
+}
+{
+	"_id" : 69,
+	"name" : "Vinos del Mundo",
+	"address" : "4, Collins Avenue",
+	"city" : "Miami",
+	"status" : 92
+}
+{
+	"_id" : 84,
+	"name" : "Wine Trade Logistics",
+	"address" : "1002, Rhode Island Avenue",
+	"city" : "Washington",
+	"status" : 92
+}
+{
+	"_id" : 94,
+	"name" : "The Wine Crate",
+	"address" : "330, McKinney Avenue ",
+	"city" : "Dallas",
+	"status" : 75
+}

@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  pdbm_web:
+    build:
+        ./pdbmbook-playground/
+    image:
+        pdbm_playground/local
+    ports:
+        - 80:80

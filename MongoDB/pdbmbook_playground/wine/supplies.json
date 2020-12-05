@@ -1,0 +1,357 @@
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c34"),
+	"supplier" : 21,
+	"product" : 119,
+	"purchase_price" : 15.99,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c35"),
+	"supplier" : 21,
+	"product" : 178,
+	"purchase_price" : null,
+	"delivery_period" : null
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c36"),
+	"supplier" : 21,
+	"product" : 289,
+	"purchase_price" : 17.99,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c37"),
+	"supplier" : 21,
+	"product" : 327,
+	"purchase_price" : 56,
+	"delivery_period" : 6
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c38"),
+	"supplier" : 21,
+	"product" : 347,
+	"purchase_price" : 16,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c39"),
+	"supplier" : 21,
+	"product" : 384,
+	"purchase_price" : 55,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c3a"),
+	"supplier" : 21,
+	"product" : 386,
+	"purchase_price" : 58.99,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c3b"),
+	"supplier" : 21,
+	"product" : 468,
+	"purchase_price" : 14.99,
+	"delivery_period" : 5
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c3c"),
+	"supplier" : 21,
+	"product" : 668,
+	"purchase_price" : 6,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c3d"),
+	"supplier" : 32,
+	"product" : 154,
+	"purchase_price" : 21,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c3e"),
+	"supplier" : 32,
+	"product" : 474,
+	"purchase_price" : 40,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c3f"),
+	"supplier" : 32,
+	"product" : 494,
+	"purchase_price" : 15,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c40"),
+	"supplier" : 32,
+	"product" : 657,
+	"purchase_price" : 44.99,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c41"),
+	"supplier" : 32,
+	"product" : 760,
+	"purchase_price" : 52,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c42"),
+	"supplier" : 32,
+	"product" : 832,
+	"purchase_price" : 20,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c43"),
+	"supplier" : 37,
+	"product" : 178,
+	"purchase_price" : 16.99,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c44"),
+	"supplier" : 37,
+	"product" : 185,
+	"purchase_price" : 32.99,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c45"),
+	"supplier" : 37,
+	"product" : 468,
+	"purchase_price" : 14,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c46"),
+	"supplier" : 37,
+	"product" : 795,
+	"purchase_price" : 20.99,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c47"),
+	"supplier" : 68,
+	"product" : 178,
+	"purchase_price" : 17.99,
+	"delivery_period" : 5
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c48"),
+	"supplier" : 68,
+	"product" : 212,
+	"purchase_price" : 27.99,
+	"delivery_period" : 6
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c49"),
+	"supplier" : 68,
+	"product" : 300,
+	"purchase_price" : 19,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c4a"),
+	"supplier" : 68,
+	"product" : 327,
+	"purchase_price" : 56.99,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c4b"),
+	"supplier" : 68,
+	"product" : 468,
+	"purchase_price" : 15.99,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c4c"),
+	"supplier" : 68,
+	"product" : 637,
+	"purchase_price" : 81,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c4d"),
+	"supplier" : 68,
+	"product" : 639,
+	"purchase_price" : 5,
+	"delivery_period" : 5
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c4e"),
+	"supplier" : 68,
+	"product" : 668,
+	"purchase_price" : 6.99,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c4f"),
+	"supplier" : 68,
+	"product" : 760,
+	"purchase_price" : 52.99,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c50"),
+	"supplier" : 69,
+	"product" : 178,
+	"purchase_price" : 16.99,
+	"delivery_period" : null
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c51"),
+	"supplier" : 69,
+	"product" : 199,
+	"purchase_price" : 32,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c52"),
+	"supplier" : 69,
+	"product" : 347,
+	"purchase_price" : 18,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c53"),
+	"supplier" : 69,
+	"product" : 783,
+	"purchase_price" : 7,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c54"),
+	"supplier" : 69,
+	"product" : 795,
+	"purchase_price" : 20.99,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c55"),
+	"supplier" : 69,
+	"product" : 832,
+	"purchase_price" : 21,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c56"),
+	"supplier" : 69,
+	"product" : 977,
+	"purchase_price" : 34.99,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c57"),
+	"supplier" : 84,
+	"product" : 185,
+	"purchase_price" : 33,
+	"delivery_period" : 5
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c58"),
+	"supplier" : 84,
+	"product" : 300,
+	"purchase_price" : 21,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c59"),
+	"supplier" : 84,
+	"product" : 306,
+	"purchase_price" : 25,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c5a"),
+	"supplier" : 84,
+	"product" : 347,
+	"purchase_price" : 18,
+	"delivery_period" : 4
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c5b"),
+	"supplier" : 84,
+	"product" : 468,
+	"purchase_price" : 15,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c5c"),
+	"supplier" : 84,
+	"product" : 494,
+	"purchase_price" : 15.99,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c5d"),
+	"supplier" : 84,
+	"product" : 832,
+	"purchase_price" : 20.99,
+	"delivery_period" : 6
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c5e"),
+	"supplier" : 84,
+	"product" : 915,
+	"purchase_price" : 84,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c5f"),
+	"supplier" : 94,
+	"product" : 154,
+	"purchase_price" : 22,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c60"),
+	"supplier" : 94,
+	"product" : 178,
+	"purchase_price" : 18,
+	"delivery_period" : 6
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c61"),
+	"supplier" : 94,
+	"product" : 185,
+	"purchase_price" : 32.99,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c62"),
+	"supplier" : 94,
+	"product" : 199,
+	"purchase_price" : 30.99,
+	"delivery_period" : 1
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c63"),
+	"supplier" : 94,
+	"product" : 474,
+	"purchase_price" : 39.99,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c64"),
+	"supplier" : 94,
+	"product" : 523,
+	"purchase_price" : 20.99,
+	"delivery_period" : 3
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c65"),
+	"supplier" : 94,
+	"product" : 632,
+	"purchase_price" : 15.99,
+	"delivery_period" : 2
+}
+{
+	"_id" : ObjectId("5fc7f50dec9d2642192d1c66"),
+	"supplier" : 94,
+	"product" : 899,
+	"purchase_price" : 15,
+	"delivery_period" : 1
+}
