@@ -35,7 +35,7 @@ Root User: root<br>
 Root Password: password
 
 User: user<br>
-password: password
+Password: password
 
 The database can be accessed using MySQL Workbench or generating a terminal console for the container using the script MySQL_Shell.sh. If you are in Windows 10 using WSL2 backend, you can copy the command from the shell script and run it in powershell.
 
@@ -43,7 +43,7 @@ The database can be accessed using MySQL Workbench or generating a terminal cons
 Port: 27017
 
 Root User: root<br>
-root Password: password<br>
+Root Password: password
 
 The database can be accessed using Robo3T Workbench or generating a terminal console for the container using the script MongoDB_Shell.sh. If you are in Windows 10 using WSL2 backend, you can copy the command from the shell script and run it in powershell.
 
@@ -53,6 +53,6 @@ This is the playground provided by the book Principles of Database Management. R
 It has many different databases that you can test on. However, the databases cannot be accessed through workbench or any other means and does not provide you root access. This prevents you from generating views and procedures in MySQL. It also prevents you from seeing multiple console output which you can when you use Robo3T for MongoDB.
 
 ## References
-Docker: https://docs.docker.com/
-Principles of Database Management Book: https://www.pdbmbook.com/
+Docker: https://docs.docker.com/<br>
+Principles of Database Management Book: https://www.pdbmbook.com/<br>
 PDBM Playground Code Source: https://github.com/Macuyiko/pdbmbook-docker/
