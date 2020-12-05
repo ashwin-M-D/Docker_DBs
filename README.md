@@ -47,6 +47,18 @@ Root Password: password
 
 The database can be accessed using Robo3T Workbench or generating a terminal console for the container using the script MongoDB_Shell.sh. If you are in Windows 10 using WSL2 backend, you can copy the command from the shell script and run it in powershell.
 
+### Neo4j Cypher
+Port: 7474 / 7687
+
+Root User: neo4j<br>
+Root Password: password
+
+The database can be accessed using Neo4j Desktop, the browser or generating a terminal console for the container using the script Neo4j_Cypher_Shell.sh. If you are in Windows 10 using WSL2 backend, you can copy the command from the shell script and run it in powershell.
+
+The browser GUI can be accessed at localhost:7474
+
+The database can be accessed through bolt i.e for Neo4j Desktop through port 7687
+
 ## PDBM_Playground
 This is the playground provided by the book Principles of Database Management. Running this docker container starts a web service accessible through your web browser at localhost:80
 
@@ -54,5 +66,8 @@ It has many different databases that you can test on. However, the databases can
 
 ## References
 Docker: https://docs.docker.com/<br>
+MySQL Workbench: https://www.mysql.com/products/workbench/<br>
+Robo3T Desktop: https://robomongo.org/download/<br>
+neo4j Desktop: https://neo4j.com/download-v2/<br>
 Principles of Database Management Book: https://www.pdbmbook.com/<br>
 PDBM Playground Code Source: https://github.com/Macuyiko/pdbmbook-docker/

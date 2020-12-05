@@ -1,0 +1,23 @@
+version: '3'
+services:
+  neo4j:
+    image: neo4j:latest
+    restart: unless-stopped
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - ./Docker/conf:/var/lib/neo4j/conf
+      - ./Docker/data:/data
+      - ./Docker/import:/var/lib/neo4j/import
+      - ./Docker/logs:/logs
+      - ./Docker/plugins:/plugins
+    environment: 
+      - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+      - NEO4J_AUTH=neo4j/password
+      - NEO4J_dbms_memory_heap_max__size=5G
+      - NEO4J_apoc_import_file_use__neo4j__config=true
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_apoc_export_file_enabled=true
+      - NEO4JLABS_PLUGINS=["apoc"]
+      - NEO4J_dbms_connector_bolt_advertised__address=0.0.0.0:7687
