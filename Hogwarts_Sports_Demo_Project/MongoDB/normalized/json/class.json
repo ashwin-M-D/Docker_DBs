@@ -1,0 +1,8 @@
+[{"Class_ID":600, "Days":"Monday", "Class_Cost":10, "Location":"Dungeons", "Sports_Name":"Yoga", "Class_Start_Time":"08:00:00", "Class_End_Time":"09:00:00", "I_HOGID":97},
+ {"Class_ID":601, "Days":"Tuesday", "Class_Cost":8, "Location":"Great Hall", "Sports_Name":"Yoga", "Class_Start_Time":"08:00:00", "Class_End_Time":"09:00:00", "I_HOGID":92},
+ {"Class_ID":602, "Days":"Wednesday", "Class_Cost":20, "Location":"Great Hall", "Sports_Name":"Pilates", "Class_Start_Time":"08:00:00", "Class_End_Time":"09:00:00", "I_HOGID":88},
+ {"Class_ID":603, "Days":"Thursday", "Class_Cost":20, "Location":"Quidditch Pitch", "Sports_Name":"Quidditch", "Class_Start_Time":"09:00:00", "Class_End_Time":"10:00:00", "I_HOGID":91},
+ {"Class_ID":604, "Days":"Friday", "Class_Cost":10, "Location":"Quidditch Pitch", "Sports_Name":"Quidditch", "Class_Start_Time":"09:00:00", "Class_End_Time":"10:00:00", "I_HOGID":93},
+ {"Class_ID":605, "Days":"Saturday", "Class_Cost":20, "Location":"Great Hall", "Sports_Name":"Pilates", "Class_Start_Time":"08:00:00", "Class_End_Time":"09:00:00", "I_HOGID":88},
+ {"Class_ID":606, "Days":"Sunday", "Class_Cost":9, "Location":"Quidditch Pitch", "Sports_Name":"Yoga", "Class_Start_Time":"08:00:00", "Class_End_Time":"09:00:00", "I_HOGID":88},
+ {"Class_ID":607, "Days":"Monday", "Class_Cost":5, "Location":"Quidditch Pitch", "Sports_Name":"Quidditch", "Class_Start_Time":"08:00:00", "Class_End_Time":"09:00:00", "I_HOGID":92}]
